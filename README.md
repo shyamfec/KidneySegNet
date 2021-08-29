@@ -1,6 +1,6 @@
 # Kidney-Segnet
 Implementation of Kidney-Segnet: Efficient deep learning architecture with dimension-wise pyramid pooling for nuclei segmentation of histopathology images 
-## Paper : Anirudh Ashok Aatresh, Rohit Prashant Yatgiri, Amit Kumar Chanchal, Aman Kumar, Akansh Ravi, Devikalyan Das, Raghavendra BS, Shyam Lal, Jyoti Kini “Efﬁcient Deep Learning Architecture with Dimension-wise Pyramid Pooling for Nuclei Segmentation of Histopathology Images”, Computerized Medical Imaging and Graphics, vol.93, 2021, Elsevier Publisher.(Published) Indexedby SCI, Thomson ISI, Scopus (Elsevier), JCR (2018) Impact Factor: 4.750.
+* Paper : Anirudh Ashok Aatresh, Rohit Prashant Yatgiri, Amit Kumar Chanchal, Aman Kumar, Akansh Ravi, Devikalyan Das, Raghavendra BS, Shyam Lal, Jyoti Kini “Efﬁcient Deep Learning Architecture with Dimension-wise Pyramid Pooling for Nuclei Segmentation of Histopathology Images”, Computerized Medical Imaging and Graphics, vol.93, 2021, Elsevier Publisher.(Published) Indexedby SCI, Thomson ISI, Scopus (Elsevier), JCR (2018) Impact Factor: 4.750.
 
 ![](./diagrams/encoder_aspp_decoder.png)
 
